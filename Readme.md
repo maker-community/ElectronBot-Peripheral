@@ -11,12 +11,15 @@
 ### 安装方式：
   1.  #### 角、翅膀使用 胶水、玻璃胶固定
   2.  #### 手部兼容原版，直接安装即可
+  3.  #### 耳机独立配件，可以拆卸
  
 ---
 ### 效果如图
 ![image](/image/uTools_1673703017974.png)
  
 ![image](/image/lujiaem.png)
+
+![image](/image/Snipaste_2023-01-14_23-45-38.png)
 
 ![image](/image/qb1.png)
 
@@ -29,3 +32,5 @@
 ![image](/image/sk.png)
 
 ![image](/image/lj.png)
+
+![image](/image/yj1.png)
