@@ -10,6 +10,7 @@ https://github.com/maker-community/ElectronBot-Peripheral
  6. 头顶鹿角
  7. 胸口手势孔装饰--2023.1.14
  8. 笔套--2023.1.15
+ 9. 兔子装饰（发箍、尾巴）--2023.1.30
    
 ### 安装方式：
   1.  #### 角、翅膀使用 胶水、玻璃胶固定
@@ -28,6 +29,9 @@ https://github.com/maker-community/ElectronBot-Peripheral
 ![image](/image/Snipaste_2023-01-14_23-45-38.png)
 ##### 笔套、耳机
 ![image](/image/Snipaste_2023-01-15_22-13-05.png)
+##### 兔耳朵发箍、兔尾巴
+![image](/image/Snipaste_2023-01-30_22-41-20.png)
+
 ##### 恶魔翅膀
 ![image](/image/qb1.png)
 ##### 高达翅膀
@@ -44,3 +48,5 @@ https://github.com/maker-community/ElectronBot-Peripheral
 ![image](/image/yj1.png)
 ##### 后背笔套
 ![image](/image/Snipaste_2023-01-15_22-13-23.png)
+##### 兔儿耳发箍
+![image](/image/tufk1.png)
