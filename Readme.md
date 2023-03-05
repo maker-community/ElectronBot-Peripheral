@@ -11,12 +11,14 @@ https://github.com/maker-community/ElectronBot-Peripheral
  7. 胸口手势孔装饰--2023.1.14
  8. 笔套--2023.1.15
  9. 兔子装饰（发箍、尾巴）--2023.1.30
+ 10. 电子背包（背包盖、背包主体）--2023.3.5
    
 ### 安装方式：
   1.  #### 角、翅膀使用 胶水、玻璃胶固定
   2.  #### 手部兼容原版，直接安装即可
   3.  #### 耳机独立配件，可以拆卸
-  4.  #### 笔套独立配件，安装在后背安装孔上
+  4.  #### 笔套独立配件，安装在后背螺丝孔
+  5.  #### 背包可以打开，安装在后背螺丝孔
  
 ---
 ### 效果如图
@@ -31,6 +33,10 @@ https://github.com/maker-community/ElectronBot-Peripheral
 ![image](/image/Snipaste_2023-01-15_22-13-05.png)
 ##### 兔耳朵发箍、兔尾巴
 ![image](/image/Snipaste_2023-01-30_22-41-20.png)
+##### 背包
+![image](/image/shubaozp.png)
+##### 背包2小一点，0.8倍
+![image](/image/shubaozp3.png)
 
 ##### 恶魔翅膀
 ![image](/image/qb1.png)
@@ -46,7 +52,9 @@ https://github.com/maker-community/ElectronBot-Peripheral
 ![image](/image/lj.png)
 ##### 耳机
 ![image](/image/yj1.png)
-##### 后背笔套
+##### 后背笔套（身体）
 ![image](/image/Snipaste_2023-01-15_22-13-23.png)
 ##### 兔儿耳发箍
 ![image](/image/tufk1.png)
+##### 背包，背包0.8倍（身体）
+![image](/image/shubao.png)
