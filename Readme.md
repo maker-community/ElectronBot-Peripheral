@@ -26,6 +26,9 @@ https://github.com/maker-community/ElectronBot-Peripheral
 ---
 ### 效果如图
 
+#### 绿荫整理版电子模型源文件
+![image](/image/verdure.jpg)
+
 ##### 天线、高达翼装、武器、盾牌、心型胸饰
 ![image](/image/uTools_1673703017974.png)
 ##### 鹿角、恶魔翅膀
