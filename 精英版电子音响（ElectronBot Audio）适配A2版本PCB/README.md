@@ -4,6 +4,9 @@
 
 https://www.bilibili.com/video/BV1sx4y1s7FZ
 
+复刻文档地址：
+
+https://maker-community.github.io/electronbot-doc/
 
 成品效果如下：
 ![image](/image/audio.jpg)

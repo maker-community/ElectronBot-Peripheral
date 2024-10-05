@@ -1,6 +1,14 @@
 ## ElectronBot的外设
 [GitHub 地址](https://github.com/maker-community/ElectronBot-Peripheral)
 https://github.com/maker-community/ElectronBot-Peripheral
+
+#### 多形态电子
+![image](/image/all-bot.png)
+
+复刻文档地址：
+
+https://maker-community.github.io/electronbot-doc/
+
 ### 主体使用稚辉君的 ElectronBot 模型，部份模型未经验证，请自行决定。
  1. 侧面天线
  2. 右手武器
