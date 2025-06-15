@@ -1,3 +1,13 @@
+### 2025年6月16日新增Verdure Audio 和ElectronBot Elite Mini模型。
+
+电路板地址：
+
+https://oshwhub.com/greenshade/electronbot-yu-yin
+
+![image](/image/eb-mini-all.jpg)
+
+
+
 ## ElectronBot的外设
 [GitHub 地址](https://github.com/maker-community/ElectronBot-Peripheral)
 https://github.com/maker-community/ElectronBot-Peripheral
